@@ -4,6 +4,10 @@
 
 I am a DevOps Engineer learning Full Stack Development.
 
+---
+
+[![Wilmar's github stats](https://github-readme-stats.vercel.app/api?username=wilmararturo&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 ##  Social
 
 ---

@@ -1,4 +1,15 @@
+# Wilmar Stephens
+
 ### Hi there 👋
+
+I am a DevOps Engineer learning Full Stack Development.
+
+##  Social
+
+---
+
+You can find me on [<img src="./assets/img/LI-In-Bug.png" alt="Wilmar Stephens on Linkedin" width=30px heighth=30px/>](https://www.linkedin.com/in/wilmars)
+
 
 <!--
 **wilmararturo/wilmararturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
